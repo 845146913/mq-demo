@@ -1,0 +1,11 @@
+spring:
+  rabbitmq:
+    host: 192.168.0.100
+    username: root
+    virtual-host: /
+    password: root
+
+mq:
+  config:
+    exchange: test.exchange
+    exchange1: test1.exchange
