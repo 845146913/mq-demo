@@ -10,3 +10,6 @@ mq:
   config:
     exchange: test.exchange
     exchange1: test1.exchange
+
+server:
+  port: 8088
